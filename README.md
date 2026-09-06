@@ -1,2 +1,4 @@
-## Tawfeeq .M  ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftawfek1212%2Fhit-counter)
-## ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfek)
+## Tawfeeq .M ![](https://github-visitor-counter-tau.vercel.app/api?username=tawfek&displayMode=miniCounter&theme=github_dark&bg=B25BB9&text=F0F0F0&border=F0F0F0)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfek&theme=dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tawfek&theme=dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tawfek&theme=dark&animation=rise)
